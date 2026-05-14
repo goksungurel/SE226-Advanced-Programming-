@@ -2,7 +2,7 @@
 const int ledPins[] = {43, 44, 45, 46}; 
 
 
-const int buttonPins[] = {2, 3, 4, 5}; 
+const int buttonPins[] = {38, 39, 40, 41}; 
 
 const int totalItems = 4;
 
